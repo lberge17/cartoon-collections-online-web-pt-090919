@@ -31,7 +31,7 @@ def find_the_cheese(array)
 #    return cheese_types[1]
 #  elsif array.include?(cheese_types[2])
 #    return cheese_types[2]
-  else
-    return nil
-  end
+#  else
+#    return nil
+#  end
 end
