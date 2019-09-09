@@ -22,16 +22,4 @@ def find_the_cheese(array)
       return nil
     end
   end
-  
-#  if array.include?(cheese_types.each_with_index do |cheese|
-#    cheese
-#    end)
-#    return cheese_types[index]
-#  elsif array.include?(cheese_types[1])
-#    return cheese_types[1]
-#  elsif array.include?(cheese_types[2])
-#    return cheese_types[2]
-#  else
-#    return nil
-#  end
 end
